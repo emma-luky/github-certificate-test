@@ -7,7 +7,7 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: emmma-luky/podcast-generator@main
+        uses: emma-luky/podcast-generator@main
       # Version 1
       # - name: Setup Python
       #   uses: actions/setup-python@v4
